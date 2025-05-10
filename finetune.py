@@ -20,7 +20,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "true"
 
 # Configuration
 SAVE_DIR = "hellaswag"
-MODEL_PATH = "microsoft/Phi-3-mini-4k-instruct"
+MODEL_PATH = "Qwen/Qwen3-0.6B"
 ADAPTER_PATH = Path("adapters")
 NUM_TEST = 100
 
