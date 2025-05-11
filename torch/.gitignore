@@ -1,0 +1,5 @@
+.DS_Store
+hellaswag/
+adapters_pytorch/
+env/
+*.png
